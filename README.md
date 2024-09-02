@@ -108,7 +108,7 @@ void IRsensor()
 
 ## Output  :
  
-![Uploading Screenshot 2024-09-02 at 9.37.38 AM.png…]() 
+<img width="1148" alt="Screenshot 2024-09-02 at 9 37 38 AM" src="https://github.com/user-attachments/assets/fc2bffa0-f772-441f-ac04-b9ee4fadfd12">
 
 
 ## Result :
